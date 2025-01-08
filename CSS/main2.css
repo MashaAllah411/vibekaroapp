@@ -1,0 +1,267 @@
+#container{
+    display: flex;
+    justify-content: flex-start;
+}
+
+#first{
+    width: 300px;
+    height: 1100px;
+    border: 0px solid black;
+    border-radius: 10px;
+    background-color: #1C1C1C;
+}
+
+#second{
+    width: 1300px;
+    height: 1100px;
+    border: 0px solid black;
+    border-radius: 10px;
+    background-image: url(../MEDIA/IMAGE/color3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home{
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-top: 10px
+}
+
+#home2{
+    padding-top: 10px;
+    padding-left: 10px;
+    color: white;
+}
+
+#play{
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 23px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+#logo2{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    color: white;
+    padding-left: 5px;
+   padding-top: 20px;
+   padding-bottom: 30px;
+    
+}
+
+#logo{
+   padding-left: 20px;
+   padding-top: 20px;
+   padding-bottom: 30px;
+}
+
+#home3{
+        padding-top: 10px;
+        padding-left: 20px;
+        color: white;
+        font-weight: 600;
+    }
+
+#item{
+        margin-top: 210px;
+
+    }
+    
+ #home4{
+        padding-top: 10px;
+        padding-left: 20px;
+        padding-top: 10px
+    }
+    
+#home5{
+        padding-top: 10px;
+        padding-left: 8px;
+        color: white;
+    }    
+
+.menu{
+    padding: 0.9rem;
+    color: white;
+    text-decoration: none;
+    position: relative;
+}
+
+#menu2{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.menu::before{
+    content: "";
+    position:absolute;
+    width: 100%;
+    height: 2px;
+    background: #18bff2;
+    border-radius: 6px;
+    transition: all .5s ease;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+}
+
+.menu:hover::before{
+    transform: scaleX(1);
+}
+
+.menu1{
+    display: inline-block;
+}
+
+.word{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: white;
+    background-color: #302929;
+}
+
+.wrap{
+    height: 70px;
+    width: 280px;
+    border: 0px  solid;
+    border-radius: 5px;
+    display: inline-block;
+    color: white;
+    margin-top: 30px;
+    background-color:#333333;
+    
+
+
+}
+
+.center{
+    position: absolute;
+    margin-top: 28px;
+    margin-left: 5px;
+}
+
+#ann{
+    text-decoration: none;
+}
+
+img{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding-right: 25px;
+}
+
+#hlo{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.artist{
+    display: inline-block;
+    
+}
+
+#artistimg{
+    border-radius: 50%;
+    margin-left: 55px;
+    margin-top: 30px;
+}
+
+#fontt{
+  text-align: left;
+  font-size: 30px;
+  font-family: sans-serif;
+  color: white;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.name{
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+}
+
+#name2{
+    margin-left: 150px;
+
+}
+
+#name3{
+    margin-left: 200px;
+
+}
+
+#name4{
+    margin-left: 210px;
+
+}
+
+.top{
+    display: inline-block;
+    
+}
+#enter{
+    margin-left: 30px;
+}
+
+#text{
+    font-size: 15px;
+    color: whitesmoke;
+    margin-bottom: 5px;
+}
+
+#text2{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 800;
+    color: white;
+    margin-bottom: 15px;
+}
+
+#enter{
+    margin-top: 30px;
+}
+
+.i{
+    border-radius: 10px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+.name1{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 20px;
+    color: white;
+    margin-top: 10px;
+
+}
+
+#vj2{
+    margin-left: 65px;
+}
+
+#vj3{
+    margin-left: 140px;
+}
+
+#vj4{
+    margin-left: 160px;
+}
+
+
+
+
+
+
+
+
+
+

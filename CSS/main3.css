@@ -1,0 +1,66 @@
+#container1>.logo{
+    display: inline-block;
+}
+
+#button{
+    height: 50px;
+    width: 120px;
+    border-radius: 25px;
+    margin-left: 1320px;
+}
+
+#container1>#button{
+    margin-left: 30px;
+}
+
+#text{
+        font-weight: 700;
+        font-family: sans-serif;
+        padding-top: 15px;
+        font-size: 25px;
+        filter: drop-shadow(5px 5px 4px black);
+        position: absolute;
+}
+
+#head{
+    
+        filter: drop-shadow(5px 5px 4px black);
+
+}
+
+#container2{
+    
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-left: 22px;
+
+}
+
+select{
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 10px;
+}
+
+option{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+#button2{
+    display: inline-block;
+}
+
+#button3{
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    border-radius: 25px;
+    margin-left: 30px;
+
+}
+

@@ -1,0 +1,99 @@
+#main{
+    background-image: url(../MEDIA/IMAGE/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#logo{
+    padding-left: 20px;
+    padding-top: 20px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#logo2{
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 15px;
+    font-size: 25px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#container{
+    width: 450px;
+    height: 660px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px whitesmoke,-3px -3px 5px black;
+    border-radius: 25px;
+    margin-left: 500px;
+    margin-bottom: 45px;
+    background-image: url(../MEDIA/IMAGE/bg2.png);
+}
+
+#signup{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    color: blue;
+}
+
+#acc{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+.name{
+    text-align: left;
+    font-weight: 700;
+    margin-left: 94px;
+    height: 24px;
+    width: 250px;
+    border: 0px solid whitesmoke;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px;
+}
+
+.wrap{
+    margin-left: 100px;
+    padding-top: 30px;
+    font-weight: 600;
+}
+
+#gun{
+    margin-left: 20px;
+    margin-top: 25px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#verify1{
+    text-align: center;
+    font-weight: 600;
+    background-color: blue;
+    height: 35px;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 100px;
+    border: 0px double whitesmoke;
+    border-radius: 25px;
+}
+
+#verify2{
+    text-align: center;
+    font-weight: 600;
+    height: 30px;
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 3px double whitesmoke;
+    border-radius: 25px;
+    box-shadow: 3px 3px 5px black,-3px -3px 5px black;
+}
+
+#log{
+    margin-left: 200px;
+    margin-top: 34px;
+    margin-bottom: 15px;
+}

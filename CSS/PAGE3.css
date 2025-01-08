@@ -1,0 +1,106 @@
+#main{
+    background-image: url(../MEDIA/IMAGE/11.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#container{
+    width: 450px;
+    height: 550px;
+    border: 3px solid whitesmoke;
+    border-radius: 25px;
+    box-shadow: 5px 5px 6px lightblue,-5px -5px 4px;
+    background-image: url(../MEDIA/IMAGE/14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 200px;
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+
+#otp{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 500;
+    text-shadow: 5px 5px 5px whitesmoke;
+
+}
+
+#img{
+    margin-left: 190px;
+    margin-top: 70px;
+}
+
+.word{
+    text-align: center;
+    font-weight: 300;
+    margin-top: 10px;
+    
+}
+.word2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    
+}
+
+#otp2{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 400;
+    margin-left: 94px;
+    margin-top: 20px;
+    height: 24px;
+    width: 250px;
+    border: 3px double whitesmoke;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px;
+}
+
+#verify{
+    text-align: center;
+    font-weight: 600;
+    height: 30px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 180px;
+    border: 3px double whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px;
+}
+
+#again{
+    font-weight: 800;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+#verify1{
+    text-align: center;
+    font-weight: 600;
+    height: 40px;
+    width: 120px;
+    margin-top: 20px;
+    margin-left: 160px;
+    border: 3px double whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px black,-3px -3px 5px black;
+}
+
+#logo{
+    padding-left: 20px;
+    padding-top: 20px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#logo2{
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 15px;
+    font-size: 25px;
+    filter: drop-shadow(5px 5px 4px black);
+}

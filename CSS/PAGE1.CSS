@@ -1,0 +1,83 @@
+
+#container{
+    border: 5px solid black;
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px lightblue;
+    width: 450px;
+    height: 500px;
+    margin-left: 450px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    background-image: url(../MEDIA/IMAGE/4.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+#logo{
+    padding-left: 20px;
+    padding-top: 20px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#logo2{
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 15px;
+    font-size: 25px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#img{
+    margin-left: 195px;
+    margin-top: 50px;
+}
+
+#log{
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#pro{
+     margin-top: 20px;
+    
+}
+
+.name{
+    text-align: center;
+    margin-left: 94px;
+    margin-top: 20px;
+    height: 24px;
+    width: 250px;
+    border: 3px double whitesmoke;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px;
+}
+
+#login{
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    margin-top: 20px;
+    margin-left: 180px;
+    border: 3px double whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px;
+}
+
+#ins{
+    margin-top: 20px;
+    margin-left: 165px;
+    text-decoration: underline;
+    
+}
+
+#new{
+    font-weight: 800;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+}

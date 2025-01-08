@@ -1,0 +1,80 @@
+#pass1{
+    font-size: 50px;
+    font-weight: 800;
+    font-family: sans-serif;
+    color: blue;
+    text-shadow: 5px 5px 4px black;
+}
+
+#pass2{
+    font-size: 40px;
+    font-weight: 800;
+    font-family: sans-serif;
+    color: white;
+    text-shadow: 5px 5px 4px black;
+}
+
+#page{
+    margin-left: 10px;
+}
+
+#container{
+    width: 450px;
+    height: 500px;
+    border: 3px solid whitesmoke;
+    border-radius: 25px;
+    box-shadow: 10px 10px 8px lightblue;
+    background-image: url(../MEDIA/IMAGE/10.jpg);
+    background-size: cover;
+    margin-left: 700px;
+    margin-bottom: 20px;
+    margin-top: 80px;
+
+}
+
+#img{
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+#log{
+    font-weight: 600;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+    margin-left: 94px;
+    margin-top: 30px;
+    height: 24px;
+    width: 250px;
+    border: 3px double whitesmoke;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px;
+}
+
+#login{
+    text-align: center;
+    height: 30px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 180px;
+    border: 3px double whitesmoke;
+    border-radius: 10px;
+    box-shadow: 3px 3px 5px;
+}
+
+#logo{
+    padding-left: 20px;
+    padding-top: 20px;
+    filter: drop-shadow(5px 5px 4px black);
+}
+
+#logo2{
+    font-weight: 700;
+    font-family: sans-serif;
+    padding-top: 15px;
+    font-size: 25px;
+    filter: drop-shadow(5px 5px 4px black);
+}

@@ -1,0 +1,13 @@
+#container{
+    height: 260px;
+    width: 100%;
+    background-color: black;
+    
+}
+
+#image{
+    border-radius: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    box-shadow: 4px 4px 5px white,-4px -4px 5px white;
+}
